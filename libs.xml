@@ -1,0 +1,135 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/..\FrameXML\UI.xsd">
+	<Script file="LibStub\LibStub.lua"/>
+	<Include file="CallbackHandler-1.0\CallbackHandler-1.0.xml"/>
+
+	<!--TaintLess-->
+	<Include file="TaintLess\TaintLess.xml"/>
+
+	<!--Ace3 Block-->
+	<Include file="Ace3\AceAddon-3.0\AceAddon-3.0.xml"/>
+	<Include file="Ace3\AceEvent-3.0\AceEvent-3.0.xml"/>
+	<Include file="Ace3\AceDB-3.0\AceDB-3.0.xml"/>
+	<Include file="Ace3\AceGUI-3.0\AceGUI-3.0.xml"/>
+	<Include file="Ace3\AceConfig-3.0\AceConfig-3.0.xml"/>
+	<Include file="Ace3\AceDBOptions-3.0\AceDBOptions-3.0.xml"/>
+	<Include file="Ace3\AceBucket-3.0\AceBucket-3.0.xml"/>
+	<Include file="Ace3\AceComm-3.0\AceComm-3.0.xml"/>
+	<Include file="Ace3\AceConsole-3.0\AceConsole-3.0.xml"/>
+	<Include file="Ace3\AceHook-3.0\AceHook-3.0.xml"/>
+	<Include file="Ace3\AceLocale-3.0\AceLocale-3.0.xml"/>
+	<Include file="Ace3\AceSerializer-3.0\AceSerializer-3.0.xml"/>
+	<Include file="Ace3\AceTab-3.0\AceTab-3.0.xml"/>
+	<Include file="Ace3\AceTimer-3.0\AceTimer-3.0.xml"/>
+	<!--End Ace3 Block-->
+
+	<!--Babble Block-->
+	<Include file="LibBabble-Boss-3.0\lib.xml"/>
+	<Include file="LibBabble-Faction-3.0\lib.xml"/>
+	<Include file="LibBabble-Inventory-3.0\lib.xml"/>
+	<Include file="LibBabble-Zone-3.0\lib.xml"/>
+	<Include file="LibBabble-CreatureType-3.0\lib.xml"/>
+	<!--End Babble Block-->
+
+	<!--Chat Throttle Lib-->
+	<Include file="ChatThrottleLib\ChatThrottleLib.xml"/>
+
+	<!--Lib Action Button-->
+	<Script file="LibActionButton-1.0\LibActionButton-1.0.lua"/>
+
+	<!--Lib Anim-->
+	<Script file="LibAnim\LibAnim.lua"/>
+
+	<!--Lib Aura Info-->
+	<Include file="LibAuraInfo-1.0\lib.xml"/>
+
+	<!--Lib Base 64-->
+	<Include file="LibBase64-1.0\lib.xml"/>
+
+	<!--Lib Chat Anims-->
+	<Script file="LibChatAnims\LibChatAnims.lua"/>
+
+	<!--Lib Compress-->
+	<Script file="LibCompress\LibCompress.lua"/>
+
+	<!--Lib Data Broker (LDB)-->
+	<Script file="LibDataBroker-1.1\LibDataBroker-1.1.lua"/>
+
+	<!--Lib DB Icon-->
+	<Include file="LibDBIcon-1.0\LibDBIcon-1.0.xml"/>
+
+	<!--Lib Dual Spec-->
+	<Script file="LibDualSpec-1.0\LibDualSpec-1.0.lua"/>
+
+	<!--Lib Item Search-->
+	<Include file="LibItemSearch-1.2\LibItemSearch-1.2.xml"/>
+
+	<!--Lib Item Search-->
+	<Include file="LibItemSearch-1.2\LibItemSearch-1.2.xml"/>
+
+	<!--Lib Shared Media (LSM)-->
+	<Script file="LibSharedMedia-3.0\LibSharedMedia-3.0.lua"/>
+	<Include file="Ace3\AceGUI-3.0-SharedMediaWidgets\widget.xml"/>
+
+	<!--Lib Simple Sticky-->
+	<Script file="LibSimpleSticky\LibSimpleSticky.lua"/>
+
+	<!--Lib Spell Range-->
+	<Script file="LibSpellRange-1.0\LibSpellRange-1.0.lua"/>
+
+	<!--Lib Translit-->
+	<Script file="LibTranslit-1.0\LibTranslit-1.0.lua"/>
+
+	<!--UTF8-->
+	<Script file="UTF8\UTF8.lua"/>
+
+	<!--Lib Tourist-->
+	<Include file="LibTourist-3.0\lib.xml"/>
+
+	<!--Lib D(etails) Framework-->
+	<Include file="LibDFramework-1.0\load.xml"/>
+
+	<!--Lib Boss IDs-->
+	<Include file="LibBossIDs-1.0\lib.xml"/>
+
+	<!--Lib Deflate-->
+	<Include file="LibDeflate\lib.xml"/>
+
+	<!--Lib Graph-->
+	<Script file="LibGraph-2.0\LibGraph-2.0.lua"/>
+
+	<!--Lib Group Talents-->
+	<Include file="LibGroupTalents-1.0\lib.xml"/>
+
+	<!--Lib Talent Query-->
+	<Include file="LibTalentQuery-1.0\lib.xml"/>
+
+	<!--Lib Window-->
+	<Script file="LibWindow-1.1\LibWindow-1.1.lua"/>
+
+	<!--Nick Tag-->
+	<Include file="NickTag-1.0\NickTag-1.0.xml"/>
+
+	<!--Archivist-->
+	<Include file="Libs\Archivist\Archivist.xml"/>
+
+	<!--Lib Fail-->
+	<Script file="LibFail-1.0\LibFail-1.0.lua"/>
+
+	<!--Lib Fly Paper-->
+	<Script file="LibFlyPaper-1.1\LibFlyPaper-1.1.lua"/>
+
+	<!--Astrolabe-->
+	<Include file="Astrolabe\Load.xml"/>
+
+	<!--Lib Who-->
+	<Script file="LibWho-2.0\LibWho-2.0.lua"/>
+
+	<!--Lib Chat Handler-->
+	<Script file="LibChatHandler-1.0\LibChatHandler-1.0.lua"/>
+
+	<!--Lib QTip-->
+	<Script file="LibQTip-1.0\lib.xml"/>
+
+	<!--Lib Range Check-->
+	<Script file="LibRangeCheck-2.0\LibRangeCheck-2.0.lua"/>
+</Ui>
