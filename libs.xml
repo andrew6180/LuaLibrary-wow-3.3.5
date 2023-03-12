@@ -132,4 +132,7 @@
 
 	<!--Lib Range Check-->
 	<Script file="LibRangeCheck-2.0\LibRangeCheck-2.0.lua"/>
+
+	<!--Lib Parse-->
+	<Script file="LibParse\LibParse.lua"/>
 </Ui>
